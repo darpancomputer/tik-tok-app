@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Pulse - Social Video Network",
+  "description": "A high-performance social video platform featuring real-time feed, AI-powered caption generation, and seamless video sharing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

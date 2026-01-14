@@ -1,0 +1,21 @@
+
+{
+  "name": "Pulse Social",
+  "short_name": "Pulse",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#fe2c55",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/initials/svg?seed=P&backgroundColor=fe2c55",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/initials/svg?seed=Pulse&backgroundColor=fe2c55",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
